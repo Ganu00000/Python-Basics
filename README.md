@@ -1,1 +1,1 @@
-# Python-Basics
+This repository contains basics of python.
